@@ -1,6 +1,5 @@
 {
-    "version": "0.1.0",
-    "name": "dice",
-    "author": "Clinton R. Nixon",
-    "url": "http://github.com/crnixon/narwhal-dice"
+  "version": "0.1.0",
+  "name": "dice",
+  "author": "Clinton R. Nixon"
 }
